@@ -1,5 +1,7 @@
 # todos
 
+Vue application that provides access to search for nasa images using an api and a todos list created with json placeholder API data consumption. Both the pages linked using vue router
+
 ## Project setup
 ```
 npm install
